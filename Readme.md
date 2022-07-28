@@ -1,0 +1,1 @@
+Installation of sonaQube using script
